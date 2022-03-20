@@ -1,0 +1,2 @@
+# javapractice
+Java + DS + Algorithm
